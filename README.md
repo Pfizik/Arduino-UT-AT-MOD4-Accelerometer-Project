@@ -63,7 +63,7 @@ Turn on the developer mode and press the newly created template. Add the SuperCh
 
 https://user-images.githubusercontent.com/61054742/178247035-affe4084-2c7c-4d0d-8932-72f034eedab5.mp4
 
-To view the graph just tap on the device in the main menu. 
+To view the graph just tap on the newly created device in the main menu.
 # LICENSE
 GNU GPL: https://gnu.org/licenses/gpl.html <br />
 Capacitance calculation code: https://github.com/codewrite/arduino-capacitor <br />
