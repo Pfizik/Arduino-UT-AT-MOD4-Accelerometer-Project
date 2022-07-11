@@ -5,11 +5,11 @@ https://user-images.githubusercontent.com/61054742/178245816-6d789653-511f-4851-
 
 Next, the device can be created from the template. It is reccomended to give the device the name ESP8266 as that is the name of the model of the actual WiFi chip.
 
-<img src="https://media.giphy.com/media/2HAIhLqkaxUukvK3ET/giphy.gif"/>
+https://user-images.githubusercontent.com/61054742/178246284-8c174537-407d-4bce-8562-e044831bb400.mp4
 
 Also add the datastream from a "Virtual pin" in the code to the Blynk service with same parrameters as below.
 
-<img src="https://media.giphy.com/media/FxXlWFWzWKMIviN6mY/giphy.gif"/>
+https://user-images.githubusercontent.com/61054742/178246493-479287f8-048b-451b-beab-f56cbcc1e800.mp4
 
 To connect the device to Blynk services, edit the section of the code with the apropriate template name, device name and authentification code.
 
@@ -23,7 +23,7 @@ To connect the device to Blynk services, edit the section of the code with the a
 
 This can be directly replaced by the code in the Blynk.Console web app in the devices -> device info section.
 
-<img width="799" alt="image" src="https://user-images.githubusercontent.com/61054742/178225154-4a498ba0-1ec6-43db-80c5-c64a5ea24fef.png">
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/61054742/178246928-ddb60d85-0f43-454c-a82d-4b16e174e3e8.png">
 
 The WiFi name (SSID) and password can also be added.
 
@@ -61,7 +61,7 @@ iOS app: <br />
 
 Turn on the developer mode and press the newly created template. Add the SuperChart widget and also select the newly created datastream.
 
-<img src="https://media.giphy.com/media/PgO0CKwr9jmtm3mCBL/giphy.gif"/>
+https://user-images.githubusercontent.com/61054742/178247035-affe4084-2c7c-4d0d-8932-72f034eedab5.mp4
 
 To view the graph just tap on the device in the main menu. 
 # LICENSE
