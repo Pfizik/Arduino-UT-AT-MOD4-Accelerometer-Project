@@ -64,6 +64,8 @@ https://user-images.githubusercontent.com/61054742/178247035-affe4084-2c7c-4d0d-
 
 To view the graph just tap on the newly created device in the main menu. <br />
 
+For any additional questions, please contact: v.kulicgolja@student.utwente.nl
+
 # LICENSE
 GNU GPL: https://gnu.org/licenses/gpl.html <br />
 Capacitance calculation code: https://github.com/codewrite/arduino-capacitor <br />
