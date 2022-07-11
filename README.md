@@ -48,11 +48,14 @@ IMPORTANT: To upload the code to the ESP8266 it is necesarry to first pull out t
 To debug the connection to Blynk use the Serial Monitor in Arduino IDE while the ESP8266 is selected as the current device.
 
 To view the data on a smarthphone, first the Blynk IoT app needs to be downloaded. <br />
+
 Android app: <br />
 <img width="111" alt="image" src="https://user-images.githubusercontent.com/61054742/178236788-df0333b9-3734-495c-8088-5d98f2c5cd31.png">
  <br />
+ <br />
 iOS app: <br />
 <img width="114" alt="image" src="https://user-images.githubusercontent.com/61054742/178236907-0429ac34-dd39-448d-af86-f860b52e4b4e.png">
+<br />
 <br />
 *NOTE: The guide focuses on setting up the Android application. There might be a few differences betwen this and iOS version.*
 
