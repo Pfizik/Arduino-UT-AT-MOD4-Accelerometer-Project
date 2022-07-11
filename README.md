@@ -1,7 +1,7 @@
 # Instructions for connecting to Blynk
 First, an account needs to be created and the template needs to be created for the device.
 
-<img src="https://media.giphy.com/media/QinG8WsTdw6d6pSvZY/giphy.gif"/>
+https://user-images.githubusercontent.com/61054742/178245816-6d789653-511f-4851-b10d-da3028e63053.mp4
 
 Next, the device can be created from the template. It is reccomended to give the device the name ESP8266 as that is the name of the model of the actual WiFi chip.
 
