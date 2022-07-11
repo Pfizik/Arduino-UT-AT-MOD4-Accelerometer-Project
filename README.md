@@ -1,7 +1,7 @@
 # Instructions for connecting to Blynk
 First, an account needs to be created and the template needs to be created for the device.
 
-<img src="https://media.giphy.com/media/QinG8WsTdw6d6pSvZY/giphy.gif"/>
+<img src="https://media.giphy.com/media/QinG8WsTdw6d6pSvZY/giphy.mp4"/>
 
 To connect the device to Blynk services, edit the section of the code with the apropriate template name, device name and authentification code.
 
