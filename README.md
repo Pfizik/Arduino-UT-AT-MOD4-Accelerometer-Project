@@ -1,15 +1,17 @@
 # Instructions for connecting to Blynk
 First, an account needs to be created and the template needs to be created for the device.
 
-<img src="https://media.giphy.com/media/QinG8WsTdw6d6pSvZY/giphy.mp4"/>
+<img src="https://media.giphy.com/media/QinG8WsTdw6d6pSvZY/giphy.gif"/>
 
 To connect the device to Blynk services, edit the section of the code with the apropriate template name, device name and authentification code.
 
+```c++
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
 #define BLYNK_TEMPLATE_ID           ""
 #define BLYNK_DEVICE_NAME           ""
 #define BLYNK_AUTH_TOKEN            ""
+```
 
 This can be directly replaced by the code in the Blynk.Console web app in the devices -> device info section.
 
