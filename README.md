@@ -7,6 +7,10 @@ Next, the device can be created from the template. It is reccomended to give the
 
 <img src="https://media.giphy.com/media/2HAIhLqkaxUukvK3ET/giphy.gif"/>
 
+Also add the datastream from a "Virtual pin" in the code to the Blynk service with same parrameters as below.
+
+<img src="https://media.giphy.com/media/FxXlWFWzWKMIviN6mY/giphy.gif"/>
+
 To connect the device to Blynk services, edit the section of the code with the apropriate template name, device name and authentification code.
 
 ```c++
@@ -41,6 +45,7 @@ Everything mentioned above can be found in the "../esp8266/esp8266.ino" file und
 Arduino IDE can be used to upload the code. There are many quality tutorials on YouTube and web on how to prepare the IDE for upload to ESP8266. <br />
 For example: https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/ <br />
 IMPORTANT: To upload the code to the ESP8266 it is necesarry to first pull out the two jumpers present on the "controll board" near the on/off switch. These jumpers are responsible for completing the serial conections between the Arduino UNO and ESP8266. They need to be severed before uploading the code. <br />
+To debug the connection to Blynk use the Serial Monitor in Arduino IDE while the ESP8266 is selected as the current device.
 
 To view the data on a smarthphone, first the Blynk IoT app needs to be downloaded. <br />
 Android app:
@@ -49,6 +54,13 @@ Android app:
 iOS app:
 <img width="114" alt="image" src="https://user-images.githubusercontent.com/61054742/178236907-0429ac34-dd39-448d-af86-f860b52e4b4e.png">
 
+*NOTE: The guide focuses on setting up the Android application. There might be a few differences betwen this and iOS version.*
+
+Turn on the developer mode and press the newly created template. Add the SuperChart widget and also select the newly created datastream.
+
+<img src="https://media.giphy.com/media/PgO0CKwr9jmtm3mCBL/giphy.gif"/>
+
+To view the graph just tap on the device in the main menu. 
 # LICENSE
 GNU GPL: https://gnu.org/licenses/gpl.html <br />
 Capacitance calculation code: https://github.com/codewrite/arduino-capacitor <br />
